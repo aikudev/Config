@@ -1,7 +1,7 @@
 {
   "apkUrl": "null",
-  "enabled": false,
-  "message": "Under Maintenance",
+  "enabled": true,
+  "message": "Under Maintenance Join Channel And Wait For update",
   "telegramUrl": "https://t.me/aikucheats",
   "title": "Update",
   "version": "V6"
